@@ -9,7 +9,6 @@ namespace Exercicio1
     public interface ICachorro : IDomestico
     {
         public void Latir();
-        public void Obedecer();
        
     }
 }
